@@ -1,4 +1,4 @@
-## 'Iphone-Calculator-React-App'
+## `Iphone-Calculator-React-App`
 
 ## Commands used to install Math JS:
 npm install mathjs
