@@ -1,0 +1,36 @@
+.Button {
+    align-items: center;
+    background: #333;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    font-size: 40px;
+    height: 70px;
+    width: 70px;
+    justify-content: center;
+    transition: filter 0.3s ease-in;
+  }
+
+  .Button:first-child,.Button:nth-child(2),.Button:nth-child(3)
+  {
+    background-color:#a5a5a5;
+    color: black;
+  }
+
+  .Button:nth-child(4n+4)
+  {
+    background-color: #f1a33c;
+  }
+  
+  .Button:active,
+  .Button:focus {
+    filter: brightness(120%);
+  }
+  
+  .fadelete{
+    align-items: center;
+    justify-content: center;
+    color: black;
+
+  }
+  
