@@ -26,4 +26,4 @@ git remote add origin https://github.com/saitejababu/Iphone-Calculator-React-App
 npm run deploy
 
 ## The published To-do App:
-https://saitejababu.github.io/Iphone-Calculator-React-App
+https://saitejakalepu.github.io/Iphone-Calculator-React-App
