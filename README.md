@@ -2,3 +2,5 @@
 
 ## The published To-do App:
 https://saitejakalepu.github.io/Iphone-Calculator-React-App
+
+<img src="iphone-calculator.gif"/>
