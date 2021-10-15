@@ -3,4 +3,4 @@
 ## The published To-do App:
 https://saitejakalepu.github.io/Iphone-Calculator-React-App
 
-<img src="iphone-calc.gif" width="50%" height="50%"/>
+<img src="iphone-calc.gif" width="100%" height="50%"/>
